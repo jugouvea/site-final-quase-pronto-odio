@@ -1,0 +1,128 @@
+body{
+    margin: 0%;
+
+}
+.parteemcima{
+    background-color: rgb(125, 152, 170);
+    font-family: 'Josefin Sans', sans-serif;
+    display: flex;
+    align-items: center;
+}
+.iconecaminhao{
+    width: 40px;
+    margin-left: 570px;
+}
+.fraseinicinho{
+    text-align: center;
+    font-size: 13px;
+}
+.inicio{
+    display: flex;
+    align-items: center;
+}
+.local{
+    width: 20px;
+    float: left;
+    display: flex ;
+    padding: 4px;
+    margin-top: 10px;
+    margin-left: 80px;
+}
+.loja{
+    font-family: 'Sarabun', sans-serif;
+    font-size: 15px;
+}
+.tituloprincipal{
+    font-family: 'Josefin Slab', serif;
+    color: rgb(25, 85, 126);
+    margin-left: 400px;
+    font-size: 50px;
+
+}
+.sacola{
+    width: 26px;
+    float: left;
+    display: flex ;
+    padding: 4px;
+    margin-top: 10px;
+    margin-left: 390px;
+}
+.boutique{
+    text-align: center;
+    
+}
+header{
+    background-image: url(./imgs/logoheader.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+        text-decoration: none;
+        color: black;
+}
+.gif{
+    width: 200px;
+}
+.produtos{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.produtosfonte{
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+    color:rgb(25, 85, 126) ;
+}
+main{
+    margin: auto;
+    width: 1200px;
+    border: rgb(25, 85, 126) double  ;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.roupas{
+    display: inline-block;
+    margin-left: 22px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.roupaimg{
+   width: 368px; 
+   height: 354px;
+   
+}
+.Botão {
+    cursor: pointer;
+    border: 2px solid #000;
+    border-radius: 30px;
+    color: #000;
+    text-align: center;
+}
+.Botão:hover {
+    background: rgb(125, 152, 170);
+} 
+.tshirtnome{
+
+}
+.camisaamarela{
+    
+}
+
+.camisanome{
+
+}
+footer{
+    background-image: url(./imgs/logoheader.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+ul{
+    list-style-type: none;
+    font-family: 'Josefin Sans', sans-serif ;
+    display: flex;
+    align-items: center;
+}
+.instaimg{
+    width: 27px;
+}
